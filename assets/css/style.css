@@ -51,6 +51,7 @@ button:focus {
   outline: none;
 }
 
+
 a:focus,
 a:hover {
   text-decoration: none;
@@ -2003,7 +2004,7 @@ p {
   color: #fff;
 }
 
-p{
+p {
   padding: 25px 0;
 }
 
