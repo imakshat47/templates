@@ -598,7 +598,7 @@ section[id] {
   content: '';
   width: 100%;
   height: 100%;
-  background: linear-gradient(to right, #102baf 0%, #1664ff 100%);
+  /* background: linear-gradient(to right, #2d50fa 0%, #1664ff 100%); */
   top: 0;
   left: 0;
   z-index: -1;
