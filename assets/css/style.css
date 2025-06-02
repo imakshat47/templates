@@ -122,6 +122,19 @@ p {
   height: 100%;
 }
 
+section[id] {
+  /* scroll-margin-top: 900px; */
+  scroll-padding-top: 230px;
+  /* Adjust based on navbar height */
+}
+
+@media (max-width: 576px) {
+  section[id] {
+    scroll-margin-top: 50px;
+    /* Add more on small screens if navbar is taller */
+  }
+}
+
 /*===== All Button Style =====*/
 .main-btn {
   display: inline-block;
