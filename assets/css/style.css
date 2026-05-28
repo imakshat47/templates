@@ -2050,3 +2050,8 @@ section[id] {
   color: #fff;
   background-position: right center;
 }
+
+
+.carousel-control-next, .carousel-control-prev{
+  opacity: 0 !important;
+}
